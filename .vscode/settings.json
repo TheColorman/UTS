@@ -1,0 +1,34 @@
+{
+	"files.associations": {
+		"*.db": "json",
+		"*.css": "css",
+		"stdio.h": "c",
+		"cmath": "c",
+		"*.tcc": "c",
+		"cstdlib": "c",
+		"types.h": "c"
+	},
+	"C_Cpp.default.compilerPath": "/nix/store/bg7ldwzfb914cwd5w92yy4bifc694ji9-gcc-wrapper-14.2.0/bin/gcc",
+	"redhat.telemetry.enabled": false,
+	"extensions.experimental.affinity": {
+		"asvetliakov.vscode-neovim": 1
+	},
+	"editor.fontLigatures": true,
+	"debug.onTaskErrors": "showErrors",
+	"explorer.confirmDelete": false,
+	"workbench.editor.wrapTabs": true,
+	"git.enableSmartCommit": true,
+	"git.confirmSync": false,
+	"java.project.sourcePaths": [
+		"."
+	],
+	"window.customMenuBarAltFocus": false,
+	"[java]": {
+		"editor.suggest.snippetsPreventQuickSuggestions": false,
+		"editor.defaultFormatter": "redhat.java"
+	},
+	"workbench.preferredDarkColorTheme": "Catppuccin Macchiato",
+	"workbench.preferredLightColorTheme": "Catppuccin Latte",
+	"window.autoDetectColorScheme": true,
+	"java.project.referencedLibraries": []
+}

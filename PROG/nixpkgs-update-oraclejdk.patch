@@ -1,0 +1,13 @@
+diff --git a/pkgs/development/compilers/oraclejdk/jdk8-linux.nix b/pkgs/development/compilers/oraclejdk/jdk8-linux.nix
+index 206df75b9ebf..024de9a4bab1 100644
+--- a/pkgs/development/compilers/oraclejdk/jdk8-linux.nix
++++ b/pkgs/development/compilers/oraclejdk/jdk8-linux.nix
+@@ -1,6 +1,6 @@
+ import ./jdk-linux-base.nix {
+   productVersion = "8";
+-  patchVersion = "281";
++  patchVersion = "431";
+   sha256.i686-linux = "/yEY5O6MYNyjS5YSGZtgydb8th6jHQLNvI9tNPIh3+0=";
+-  sha256.x86_64-linux = "hejH2nJIx0UPsQVWeniEHQlzWXhQd2wkpSf+sC7z5YY=";
++  sha256.x86_64-linux = "03bjh8iifj661dlszxzqsws28pdpqd3mrzmbrk626zbbf659g5mk";
+   sha256.armv7l-linux = "oXbW8hZxesDqwV79ANB4SdnS71O51ZApKbQhqq4i/EM=";

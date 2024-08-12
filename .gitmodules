@@ -1,0 +1,15 @@
+[submodule "PROG/Assignment 1"]
+	path = PROG/Assignment 1
+	url = git.edstem.org:challenge/136962/prog2-warehouse-manager
+[submodule "PROG/Week09/Store"]
+	path = PROG/Week09/Store
+	url = git.edstem.org:challenge/131184/code-submission-java
+[submodule "PROG/Week10/Store"]
+	path = PROG/Week10/Store
+	url = git.edstem.org:challenge/131494/code-submission-java
+[submodule "PROG/Week11/Store"]
+	path = PROG/Week11/Store
+	url = git.edstem.org:challenge/131496/code-submission-java
+[submodule "PROG/Assignment2"]
+	path = PROG/Assignment2
+	url = git.edstem.org:challenge/141112/code-submission-java
